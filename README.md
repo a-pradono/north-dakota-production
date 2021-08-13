@@ -60,5 +60,5 @@ Based on various time series plots above, there was a significant decrease in bo
 The main objective of this project was to save time on data collection by making it automatically from web scraping and transforming pdf into csv formats for further analysis of oil and gas production in North Dakota. The conclusions made from this project are:
   * Time was efficiently reduced by 88 % with the assumption from manual typing of multiple pages pdf could take 8 hours working time.
   * Total oil and gas production in North Dakota has begun to rise in 2008 due to unconventional fracture booming.
-  * Top oil and gas producing counties are dominated by McKenzie, Mountrail, Dunn, and Williams among other 19 counties.
+  * Top oil and gas producing counties are dominated by McKenzie, Mountrail, Dunn, and Williams among other 16 counties.
   * The significant declined in total oil and gas production since 2020 might have been caused by the global pandemic that led to negative oil prices.
