@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="300" src="https://github.com/a-pradono/north-dakota-production/blob/main/Images/ND-sign.jpg">
+  <img width="300" height="200" src="https://github.com/a-pradono/north-dakota-production/blob/main/Images/ND-sign.jpg">
 </p>
 
 ## Table of Contents
